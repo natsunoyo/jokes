@@ -1,0 +1,42 @@
+body {
+    background-image: url("854053-hd_1920_1080_25fps-_1_.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px 40px 40px 40px;
+    font-family: 'Cormorant Garamond';
+    font-size: 25px;
+    line-height: normal;
+    font-weight: 400;
+}
+
+.wrapper {
+    background: #f6e2e2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1400px;
+    margin: 0 auto;
+    font-weight: 600;
+    margin: 200px 150px 150px 25px;
+}
+
+button {
+    border-radius: 0px;
+    background-color: #845353;
+    color: #f6aeae;
+    width: 150px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #3b1f1f;
+    color: #b97575;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
